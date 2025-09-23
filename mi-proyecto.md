@@ -1,26 +1,11 @@
-# Mi Proyecto Git
+ï»¿# Mi Proyecto Git
 
 Este es mi primer proyecto usando Git.
-## Características
-- Aprendiendo Git paso a paso
-## Características
-- Aprendiendo Git paso a paso
-## Características
-- Aprendiendo Git paso a paso
-## Características
-- Aprendiendo Git paso a paso
-## Características
+## CaracterÃ­sticas
 - Aprendiendo Git paso a paso
 
-## Última actualización
+## Ãšltima actualizaciÃ³n
 Editado desde GitHub web interface
 
-## Información del proyecto
-
-Versión desarrollada en rama main
-
-Versión desarrollada en rama feature
-
-
-## Información del proyecto
-Versión combinada de ambas ramas
+## InformaciÃ³n del proyecto
+VersiÃ³n combinada de ambas ramas
